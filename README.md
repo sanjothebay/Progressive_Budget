@@ -80,10 +80,11 @@ npm lite-server To run lite-server
   }
 ```
 
-#### Directory structure
-Directory structure <a name="Directory_structure"></a>
+
+## Directory structure <a name="Directory_structure"></a>
 
 All the recommended files and directories structure:
+
 
 ```
 .
