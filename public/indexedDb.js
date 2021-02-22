@@ -1,11 +1,3 @@
-const indexedDB =
-  window.indexedDB ||
-  window.mozIndexedDB ||
-  window.webkitIndexedDB ||
-  window.msIndexedDB ||
-  window.shimIndexedDB;
-
-
 let db;
 // create a new db request for a "budget" database.
 const request = indexedDB.open("transaction", 1);
