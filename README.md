@@ -22,7 +22,8 @@ https://github.com/sanjothebay/Progressive_Budget
 
 ## Instruction <a name="Instruction"></a>
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought 
+back online.
 
 Offline Functionality:
 
@@ -41,7 +42,8 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Business Context
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is 
+paramount to our applications success.
 
 
 ## Getting Started <a name="Getting_Started"></a>
@@ -116,6 +118,14 @@ All the recommended files and directories structure:
 ![image](https://user-images.githubusercontent.com/67298961/108652314-722faa00-7489-11eb-9e4f-488db300ed6e.png)
 
 
+![image](https://user-images.githubusercontent.com/67298961/108661959-ca1ede80-7492-11eb-959b-1f70cb97b6f3.png)
+
+
+Running Service Worker.
+
+![image](https://user-images.githubusercontent.com/67298961/108659054-3fd57b00-7490-11eb-8cf8-071d8d111d4f.png)
+
+
 ## Routes <a name="Routes"></a>
 
 ![image](https://user-images.githubusercontent.com/67298961/108654079-8bd2f080-748d-11eb-82be-17ee96099681.png)
@@ -125,4 +135,4 @@ All the recommended files and directories structure:
 
 ## LICENSE <a name="LICENSE"></a>
 
-
+License under the [MIT License](LICENSE)
