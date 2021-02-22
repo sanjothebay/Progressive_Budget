@@ -7,7 +7,9 @@ https://sanjothebay.github.io/Progressive_Budget/
 https://github.com/sanjothebay/Progressive_Budget
 
 
+
 ![image](https://user-images.githubusercontent.com/67298961/108643250-6505c180-746f-11eb-8fe3-f1cd954453fd.png)
+
 
 
 # Table of contents
@@ -127,7 +129,7 @@ Running Service Worker.
 ![image](https://user-images.githubusercontent.com/67298961/108659054-3fd57b00-7490-11eb-8cf8-071d8d111d4f.png)
 
 
-## Submission Video <a name="Submission_Video"></a>.
+## Offline <a name="Offline"></a>.
 
 ![image](https://user-images.githubusercontent.com/67298961/108664873-461c2500-7499-11eb-976b-7a22ba1ceea9.png)
 
