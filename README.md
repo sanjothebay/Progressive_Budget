@@ -15,9 +15,10 @@ https://github.com/sanjothebay/Progressive_Budget
 1. [Instruction](#Instruction)
 2. [Getting Started](#Getting_Started)
 3. [Service-worker](#Service-worker)
-4. [Routes](#Routes)
-5. [Submission Video](#Submission_Video)
-6. [LICENSE](#LICENSE)
+4. [Offline](#Offline)
+5. [Routes](#Routes)
+6. [Submission Video](#Submission_Video)
+7. [LICENSE](#LICENSE)
 
 
 ## Instruction <a name="Instruction"></a>
@@ -126,9 +127,15 @@ Running Service Worker.
 ![image](https://user-images.githubusercontent.com/67298961/108659054-3fd57b00-7490-11eb-8cf8-071d8d111d4f.png)
 
 
+## Submission Video <a name="Submission_Video"></a>.
+
+![image](https://user-images.githubusercontent.com/67298961/108664873-461c2500-7499-11eb-976b-7a22ba1ceea9.png)
+
+
 ## Routes <a name="Routes"></a>
 
 ![image](https://user-images.githubusercontent.com/67298961/108654079-8bd2f080-748d-11eb-82be-17ee96099681.png)
+
 
 ## Submission Video <a name="Submission_Video"></a>
 
