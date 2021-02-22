@@ -116,6 +116,11 @@ All the recommended files and directories structure:
 ![image](https://user-images.githubusercontent.com/67298961/108652314-722faa00-7489-11eb-9e4f-488db300ed6e.png)
 
 
+Running Service Worker.
+
+![image](https://user-images.githubusercontent.com/67298961/108659054-3fd57b00-7490-11eb-8cf8-071d8d111d4f.png)
+
+
 ## Routes <a name="Routes"></a>
 
 ![image](https://user-images.githubusercontent.com/67298961/108654079-8bd2f080-748d-11eb-82be-17ee96099681.png)
@@ -125,4 +130,4 @@ All the recommended files and directories structure:
 
 ## LICENSE <a name="LICENSE"></a>
 
-
+License under the [MIT License](LICENSE)
